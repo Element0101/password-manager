@@ -22,8 +22,7 @@ Ein einfacher Passwort-Manager, entwickelt mit Python und `tkinter`, um Login-Da
 ![Password_manager](https://github.com/user-attachments/assets/d46d6be9-abd6-41e4-b644-01e8a0589211)
 
 
-🧪 Installation und Nutzung
-
+Installation und Nutzung:
 1. Repository klonen:
    ```bash
    git clone https://github.com/Element0101/password-manager.git
@@ -33,10 +32,13 @@ Ein einfacher Passwort-Manager, entwickelt mit Python und `tkinter`, um Login-Da
 
 3. Nutze das GUI, um Login-Daten hinzuzufügen oder Passwörter zu generieren.
 
- Geplante Verbesserungen
+
+ Geplante Verbesserungen:
+ 
     Verschlüsselung der gespeicherten Passwörter
     Besseres Error-Handling
     Export der Datenbank
 
- Autor
-Element0101
+ Autor:
+ 
+[Element0101](https://github.com/Element0101)

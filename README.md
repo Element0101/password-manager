@@ -17,6 +17,8 @@ Ein einfacher Passwort-Manager, entwickelt mit Python und `tkinter`, um Login-Da
 - JSON für Datenspeicherung
 
 📷 Screenshot:
+
+
 ![Password_manager](https://github.com/user-attachments/assets/d46d6be9-abd6-41e4-b644-01e8a0589211)
 
 
